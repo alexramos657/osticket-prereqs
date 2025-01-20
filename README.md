@@ -48,12 +48,12 @@ I'll leave all other settings to default and create this VM. Once it has been cr
 <br />
 Once I've connected to the VM I will install and enable IIS (Internet Information Servies) by going to Control Panel> Programs> Turn Windows Features On or Off> Internet Information Services and enable it then World Wide Web Services> Application Development Features and enable CGI:
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/ZeVHYjx.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Then go to Common HTTP Features dropdown and enable all features. Then apply the changes: 
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/ZrwkjIi.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 I can test that the web server installed correctly by typing in the loopback IP (127.0.0.1) in the internet browser and this page should load: 
