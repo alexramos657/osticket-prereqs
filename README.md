@@ -175,7 +175,9 @@ In HeidiSQL right click Unnamed> Create> New Database> Name it osTicket> OK. The
 <img src="https://i.imgur.com/4YuHjzT.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-Last steps, for clean up go to C drive> inetpub> wwwroot> osTicket and look for the setup file and delete it. Then go to C drive> inetpub> wwwroot> osTicket> include right click on ost-config.php> Properties> Security> Advanced> Select Everyone and click edit> only leave Read & Execute and Read checked, then apply settings:  
+Click “Install Now!”
+</p>
+Congratulations, hopefully it is installed with no errors!
 </p>
 <img src="https://i.imgur.com/HMRvmc1.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
