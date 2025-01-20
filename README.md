@@ -73,12 +73,12 @@ Install IIS URL Rewrite Module:
 <br />
 Once those have installed I will create a PHP directory on the C drive: 
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/YPgQ2s3.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Now I'll download PHP and extract the zip file in the PHP directory I just made:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/0bbWvOC.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Download Microsoft Visual C++: 
