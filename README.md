@@ -175,7 +175,7 @@ In HeidiSQL right click Unnamed> Create> New Database> Name it osTicket> OK. The
 <img src="https://i.imgur.com/4YuHjzT.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-Click “Install Now!”
+Click “Install Now”
 </p>
 Congratulations, hopefully it is installed with no errors!
 </p>
