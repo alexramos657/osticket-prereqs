@@ -68,7 +68,7 @@ Now I need to install PHP manager for IIS Setup:
 <br />
 Install IIS URL Rewrite Module: 
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/MpwdBq9.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Once those have installed I will create a PHP directory on the C drive: 
