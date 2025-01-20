@@ -88,12 +88,12 @@ Download Microsoft Visual C++:
 <br />
 Download MySQL:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/mQglSms.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Next, I have to setup the login credentials and I'll write them down just so I remember, since this is only a project. Do not write passwords down in real life:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/Q8P7J4Q.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Open IIS as an admin:  <br/>
