@@ -170,7 +170,7 @@ In HeidiSQL click New> Username = root> Password = mySQL password from mySQL set
 <img src="https://i.imgur.com/DC8UtRj.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-In HeidiSQL right click Unnamed> Create> New Database> Name it osTicket> OK. Then continue to fill out the database portion of osTicket setup. Click Install Now when done.:  
+In HeidiSQL right click Unnamed> Create> New Database> Name it osTicket> OK. Then continue to fill out the database portion of osTicket setup with the correct database name "osTicket," and your MySQL username and password. 
 </p>
 <img src="https://i.imgur.com/4YuHjzT.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
