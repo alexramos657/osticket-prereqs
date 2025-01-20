@@ -30,7 +30,7 @@ You can find all the necessary installation files used in this project [here.](h
 
 
 Navigate to Microsoft Azure and create a resource group: <br/>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/YkM3v7l.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 <img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
