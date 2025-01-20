@@ -112,12 +112,12 @@ Go back to osticketVM Home and hit Restart under Manage Server on the right side
 <br />
 Next I'll download osTicket and copy the upload file to the wwwroot file in the inetpub directory: 
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/Uqw7jq0.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Rename upload file to osTicket: 
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/JbxATQk.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Reload IIS and restart the server as I did before, then click Browse *80 (http) on the right side:  
