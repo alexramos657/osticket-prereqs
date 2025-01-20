@@ -58,12 +58,12 @@ Then go to Common HTTP Features dropdown and enable all features. Then apply the
 <br />
 I can test that the web server installed correctly by typing in the loopback IP (127.0.0.1) in the internet browser and this page should load: 
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/yCZNnGP.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Now I need to install PHP manager for IIS Setup: 
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/sdu7Mnt.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Install IIS URL Rewrite Module: 
