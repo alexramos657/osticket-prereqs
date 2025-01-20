@@ -127,12 +127,12 @@ Reload IIS and restart the server as I did before, then click Browse *80 (http) 
 <br />
 This page should open:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/gERSJOV.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Notice some extensions are not enabled. I'll enable a few of those in IIS. Go to Sites> Default Web Site> osTicket Click PHP Manager> Enable or disable an extension. Enable php_imap.dll, php_intl.dll, and php_opcache.dll:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/GyIF089.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Note the changes here:  
