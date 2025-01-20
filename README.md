@@ -28,7 +28,7 @@ You can find all the necessary installation files used in this project [here.](h
 
 <h2>Project Walk-through:</h2>
 
-<p align="center">
+
 Navigate to Microsoft Azure and create a resource group: <br/>
 <img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
