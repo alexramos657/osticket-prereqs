@@ -97,17 +97,17 @@ Next, I have to setup the login credentials and I'll write them down just so I r
 <br />
 <br />
 Open IIS as an admin:  <br/>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/oL76kzb.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Next go to PHP Manager> Register new PHP version and then select the file shown: 
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/F65LgAj.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Go back to osticketVM Home and hit Restart under Manage Server on the right side:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/M14MaC6.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Next I'll download osTicket and copy the upload file to the wwwroot file in the inetpub directory: 
