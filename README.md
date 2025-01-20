@@ -43,7 +43,7 @@ Once my resource group is created, next I'll create the virtual machine:
 <br />
 I'll leave all other settings to default and create this VM. Once it has been created I'll use Remote Desktop Connection to connect to the VM:
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/lqwBE4C.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Once I've connected to the VM I will install and enable IIS (Internet Information Servies) by going to Control Panel> Programs> Turn Windows Features On or Off> Internet Information Services and enable it then World Wide Web Services> Application Development Features and enable CGI:
