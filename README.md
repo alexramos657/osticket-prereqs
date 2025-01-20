@@ -34,20 +34,11 @@ Navigate to Microsoft Azure and create a resource group:
 <img src="https://i.imgur.com/YkM3v7l.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
 Once my resource group is created, next I'll create the virtual machine:
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/cg8gJqi.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
-<br />
-Setting up the virtual machine:
-</p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/rM0gShm.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 I'll leave all other settings to default and create this VM. Once it has been created I'll use Remote Desktop Connection to connect to the VM:
