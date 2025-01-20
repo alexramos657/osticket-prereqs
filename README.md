@@ -83,7 +83,7 @@ Now I'll download PHP and extract the zip file in the PHP directory I just made:
 <br />
 Download Microsoft Visual C++: 
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/ncDfUqE.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Download MySQL:  
