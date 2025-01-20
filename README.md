@@ -122,7 +122,7 @@ Rename upload file to osTicket:
 <br />
 Reload IIS and restart the server as I did before, then click Browse *80 (http) on the right side:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/aiedsUJ.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 This page should open:  
